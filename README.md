@@ -1,4 +1,4 @@
-#Computational Intelligence - Final Project
+# Computational Intelligence - Final Project
 
 This repository contains my final project for the Computational Intelligence course.
 
