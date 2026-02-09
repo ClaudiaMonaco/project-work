@@ -6,6 +6,14 @@ This project was developed together with Federico Piozzi (s337638).
 All experiments, design choices, and comparisons are documented in the report and in the shared development repository:
 https://github.com/federicopiozzi01/Computational_Intelligence_Project
 
+## Implemented Solution
+
+The final solution is based on a **Genetic Algorithm (GA)** approach.
+
+The optimization focuses on finding an efficient visiting order of the cities.  
+Cost evaluation explicitly models the load-dependent travel cost and allows intermediate returns to the depot to unload gold when convenient.
+
+To ensure efficiency, all-pairs shortest-path information is precomputed and reused during the optimization process.
 
 ## Repository Structure
 
