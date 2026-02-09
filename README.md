@@ -1,5 +1,6 @@
 # Computational Intelligence - Final Project
 
+**Student:** Claudia Monaco (s343397)  
 This repository contains my final project for the Computational Intelligence course.
 
 This project was developed together with Federico Piozzi (s337638). 
